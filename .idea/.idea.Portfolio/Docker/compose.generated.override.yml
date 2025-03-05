@@ -1,0 +1,22 @@
+# This is a generated file. Not intended for manual editing.
+version: "3.8"
+services:
+  api:
+    build:
+      context: "/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio"
+      dockerfile: "src/Portfolio.API/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net8.0/Portfolio.API.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "portfolio.api:dev"
+    ports: []
+    volumes:
+    - "/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.API:/app:rw"
+    - "/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio:/src:rw"
+    - "/Users/mizaeldouglas/.nuget/packages:/home/app/.nuget/packages"
+    working_dir: "/app"

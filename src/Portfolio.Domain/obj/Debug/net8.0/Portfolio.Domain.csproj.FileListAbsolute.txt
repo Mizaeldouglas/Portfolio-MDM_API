@@ -1,0 +1,11 @@
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/bin/Debug/net8.0/Portfolio.Domain.deps.json
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/bin/Debug/net8.0/Portfolio.Domain.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/bin/Debug/net8.0/Portfolio.Domain.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/Portfolio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/Portfolio.Domain.AssemblyInfoInputs.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/Portfolio.Domain.AssemblyInfo.cs
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/Portfolio.Domain.csproj.CoreCompileInputs.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/Portfolio.Domain.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/refint/Portfolio.Domain.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/Portfolio.Domain.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/obj/Debug/net8.0/ref/Portfolio.Domain.dll

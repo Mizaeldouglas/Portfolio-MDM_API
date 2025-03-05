@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNYSaHPQnQA=",
+  "success": true,
+  "projectFilePath": "/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Domain/Portfolio.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/mizaeldouglas/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/mizaeldouglas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

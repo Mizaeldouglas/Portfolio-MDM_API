@@ -1,0 +1,17 @@
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/bin/Debug/net8.0/Portfolio.Infrastructure.deps.json
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/bin/Debug/net8.0/Portfolio.Infrastructure.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/bin/Debug/net8.0/Portfolio.Infrastructure.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/bin/Debug/net8.0/Portfolio.Application.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/bin/Debug/net8.0/Portfolio.Domain.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/bin/Debug/net8.0/Portfolio.Domain.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/bin/Debug/net8.0/Portfolio.Application.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfolio.Infrastructure.csproj.AssemblyReference.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfolio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfolio.Infrastructure.AssemblyInfoInputs.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfolio.Infrastructure.AssemblyInfo.cs
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfolio.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfoli.D1057275.Up2Date
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfolio.Infrastructure.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/refint/Portfolio.Infrastructure.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/Portfolio.Infrastructure.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Infrastructure/obj/Debug/net8.0/ref/Portfolio.Infrastructure.dll

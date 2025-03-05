@@ -1,0 +1,15 @@
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/bin/Debug/net8.0/Portfolio.Application.deps.json
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/bin/Debug/net8.0/Portfolio.Application.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/bin/Debug/net8.0/Portfolio.Application.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/bin/Debug/net8.0/Portfolio.Domain.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/bin/Debug/net8.0/Portfolio.Domain.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfolio.Application.csproj.AssemblyReference.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfolio.Application.AssemblyInfoInputs.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfolio.Application.AssemblyInfo.cs
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfolio.Application.csproj.CoreCompileInputs.cache
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfoli.B086831A.Up2Date
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfolio.Application.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/refint/Portfolio.Application.dll
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/Portfolio.Application.pdb
+/Users/mizaeldouglas/Programação/WorkSpace-DotNet/Projetos/Port-Curriculo/Portfolio/src/Portfolio.Application/obj/Debug/net8.0/ref/Portfolio.Application.dll
